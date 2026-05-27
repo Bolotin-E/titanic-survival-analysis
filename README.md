@@ -2,6 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/c3fc49a4-9966-4384-9a8f-b668c799b292" alt="Dashboard Preview"/>
 
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/elena.bolotin/viz/Book1_17786281389970/TitanicSurvivalAnalysisDashboard)
+
 Machine learning project focused on predicting passenger survival on the Titanic dataset using exploratory data analysis, feature engineering, and classification models.
 
 ---
@@ -133,6 +135,14 @@ Possible next steps:
 
 ---
 
+# Key Insights
+
+- Female passengers had a survival rate of ~74%, compared to ~19% for males.
+- First-class passengers demonstrated the highest survival probability.
+- Fare price strongly correlated with survival outcomes.
+- Passenger class and gender were the most influential predictive features.
+
+---
 # Repository Structure
 
 ```text
