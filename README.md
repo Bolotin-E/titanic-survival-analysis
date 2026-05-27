@@ -1,6 +1,6 @@
 # Titanic Survival Analysis
 
-![Dashboard Preview](<img width="1768" height="1032" alt="Screenshot 2026-05-26 at 9 05 00 PM" src="https://github.com/user-attachments/assets/c3fc49a4-9966-4384-9a8f-b668c799b292" />)
+<img src="https://github.com/user-attachments/assets/c3fc49a4-9966-4384-9a8f-b668c799b292" alt="Dashboard Preview"/>
 
 Machine learning project focused on predicting passenger survival on the Titanic dataset using exploratory data analysis, feature engineering, and classification models.
 
